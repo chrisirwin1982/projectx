@@ -4,6 +4,9 @@ module.exports = {
     "postcss-flexbugs-fixes",
     "postcss-100vh-fix",
     "postcss-hover-media-feature",
+    "@tailwindcss/forms",
+    
+
     [
       "postcss-preset-env",
       {
